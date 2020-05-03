@@ -19,8 +19,32 @@ RChat Is a simple real-time-chat betweent tow users one-to-one using pusher & Vu
 
 ## About Mohamed
 
-I am full-stack web developer my email (mohamed1999250@gmail.com)
+<h4>Senior full-stack web developer</h4>
+I am Mohamed from Egypt and have been working as web full-stack developer for 5+ years.
 
+<p>My Main Skills</p>
+<p>Frontend</p>
+— Jquery.js
+— VueJS
+— BootStrap
+— Html5 & Css3
+<p>Backend</p>
+
+— PHP / Laravel
+— Node.js (Express.js)
+— WordPress (Basics)
+
+Database and 3rd party APIs
+— DB: PhpMyAdmin/ MySQL / PostgreSQL
+— Cloud hosting: AWS / Heroku
+— Google map
+— API integration: Facebook, Twitter, Instagram, and others
+
+I can work full - time and fluent in English.
+I hope to have an opportunity to work with you!
+
+Best Regards.
+Mohamed
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
