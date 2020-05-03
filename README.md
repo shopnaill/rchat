@@ -15,9 +15,9 @@
 
 ## About RChat
 
-RChat Is a simple real-time-chat betweent tow users one-to-one using pusher & Vue Developed By Mohamed Mostaf 
+RChat Is a simple real-time-chat betweent tow users one-to-one using pusher & Vue Developed By Mohamed Mostafa
 
-## About Mohamed
+## About Mohamed (mma1999250@gmail.com)
 
 <h4>Senior full-stack web developer</h4>
 I am Mohamed from Egypt and have been working as web full-stack developer for 5+ years.
